@@ -1,9 +1,10 @@
-# Practice Projects using Excel and SQL
-Going to flexing my excel and sql muscles to gain a better grasp over both.
+# Excel from Beginner to Advanced
+Working our way through Udemy course "Microsoft Excel - Excel from Beginner to Advanced" by Kyle Pew.
+
 
 ## Tech Stack
 - Microsoft Excel
-- SQL
+
 
 ## Author
 Chris Jones
