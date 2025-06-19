@@ -13,3 +13,4 @@ On the ribbon, under the DATA tab, there is a "Sort & Filter" tool. Learned what
 	- Example: 
 		- Sort through a bunch employees to see only the ones hired in the year 1998, excluding all other years.
 		- Sort to view data on specified months, excluding all the rest.
+- So far we have: Sorting, Filtering, Subtotals, turning our data into a table we can customize.
